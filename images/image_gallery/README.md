@@ -156,6 +156,9 @@ Here is a selection of the image drafts that you will find throughout the chapte
 ![](./chapter_10/08.png)
 ![](./chapter_10/10.png)
 ![](./chapter_10/11.png)
+![](./chapter_10/12.png)
+![](./chapter_10/13.png)
+![](./chapter_10/14.png)
 
 
 ## Chapter 11
