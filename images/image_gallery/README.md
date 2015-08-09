@@ -57,19 +57,12 @@ Here is a selection of the image drafts that you will find throughout the chapte
 ![](./chapter_03/21.png)
 ![](./chapter_03/22.png)
 ![](./chapter_03/23.png)
-![](./chapter_03/24.png)
 
 ## Chapter 4
 
-![](./chapter_04/01.png)
-![](./chapter_04/02.png)
-![](./chapter_04/03.png)
+
 ![](./chapter_04/04.png)
 ![](./chapter_04/05.png)
-![](./chapter_04/06.png)
-![](./chapter_04/07.png)
-![](./chapter_04/08.png)
-![](./chapter_04/09.png)
 ![](./chapter_04/10.png)
 ![](./chapter_04/11.png)
 ![](./chapter_04/12.png)
@@ -141,7 +134,6 @@ Here is a selection of the image drafts that you will find throughout the chapte
 ![](./chapter_09/04.png)
 ![](./chapter_09/05.png)
 ![](./chapter_09/06.png)
-![](./chapter_09/07.png)
 ![](./chapter_09/08.png)
 
 ## Chapter 10
